@@ -1,0 +1,20 @@
+# Maven and Java specific
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
