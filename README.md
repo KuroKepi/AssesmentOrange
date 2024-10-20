@@ -20,7 +20,7 @@ Before running the tests, ensure you have the following installed:
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/KuroKepi/AssesmentOrange.git
    ```
 
 2. **Navigate to the project directory:**
