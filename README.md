@@ -12,8 +12,8 @@ This project contains automated tests for the OrangeHRM demo site using Selenium
 ## Prerequisites
 Before running the tests, ensure you have the following installed:
 
-- **Java Development Kit (JDK)**: You can download it [here](#).
-- **Maven**: Install Maven to manage the project dependencies. You can find installation instructions [here](#).
+- **Java Development Kit (JDK)**
+- **Maven**: Install Maven to manage the project dependencies.
 - **Chrome Browser**: Ensure that you have Google Chrome installed.
 - **ChromeDriver**: The project uses WebDriverManager to automatically download the correct version of ChromeDriver.
 

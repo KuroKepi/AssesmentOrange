@@ -11,10 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.junit.Test;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
-
 import java.time.Duration;
-
-//import static org.junit.Assert.assertTrue;
 
 public class ApplicationTest {
 
@@ -229,8 +226,6 @@ public class ApplicationTest {
     }
 
     // Helper function for searching a menu in the search bar
-    // Helper function for searching a menu in the search bar
-// Helper function for searching a menu in the search bar
 public void searchForMenu(WebDriver driver, String menuName) throws InterruptedException {
     WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
@@ -257,9 +252,6 @@ public void searchForMenu(WebDriver driver, String menuName) throws InterruptedE
         Thread.sleep(3000);  // Delay for observation after page refresh
     }
 }
-
-
-
     // New helper function for performing logout dynamically
     public void logout(WebDriver driver) throws InterruptedException {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
